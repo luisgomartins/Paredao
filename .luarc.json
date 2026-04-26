@@ -3,5 +3,6 @@
     "diagnostics.globals": ["love"],
     "diagnostics.disable": ["lowercase-global",
         "undefined-global",
-        "lowercase-global"]
+        "lowercase-global",
+        "duplicate-set-field"]
 }
