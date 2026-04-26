@@ -1,5 +1,7 @@
 Projeto da disciplina de Multímidia, Professor Tarcísio.
 
+<img width="798" height="631" alt="image" src="https://github.com/user-attachments/assets/cdf66f27-a407-4b8a-8bc3-939e26682a39" />
+
 Por que a velocidade da bola é multiplicada por dt em vez de ser somada 
 diretamente? O que aconteceria se não fizéssemos isso? 
 • O que representa bola.vx negativo? E positivo? Como o código usa esse sinal para 
@@ -21,9 +23,8 @@ jogo precisa de um placar duplo e de uma condição de vitória — por exemplo,
 atingir 7 pontos vence. Quando um ponto é marcado, apenas a bola deve ser reposicionada; 
 o placar deve ser preservado.
 
-<img width="709" height="546" alt="image" src="https://github.com/user-attachments/assets/a0bdc95e-92c6-47c9-bb10-bb72c1dbcbfc" />
-<img width="680" height="537" alt="image" src="https://github.com/user-attachments/assets/78d4b8f5-a16a-4582-bbb5-6db1a4b7bd2d" />
-
+<img width="645" height="510" alt="image" src="https://github.com/user-attachments/assets/e4c07f7e-4b95-4bc3-a804-31d007cfe944" />
+<img width="644" height="508" alt="image" src="https://github.com/user-attachments/assets/2fe06992-5453-4e78-a0fb-f873175f87cb" />
 
 Dicas 
 Pense em como transformar o código de movimento da raquete em uma função que receba 
