@@ -21,6 +21,10 @@ jogo precisa de um placar duplo e de uma condição de vitória — por exemplo,
 atingir 7 pontos vence. Quando um ponto é marcado, apenas a bola deve ser reposicionada; 
 o placar deve ser preservado.
 
+<img width="709" height="546" alt="image" src="https://github.com/user-attachments/assets/a0bdc95e-92c6-47c9-bb10-bb72c1dbcbfc" />
+<img width="680" height="537" alt="image" src="https://github.com/user-attachments/assets/78d4b8f5-a16a-4582-bbb5-6db1a4b7bd2d" />
+
+
 Dicas 
 Pense em como transformar o código de movimento da raquete em uma função que receba 
 a raquete e as teclas como parâmetros — isso evitará repetição de código para as duas 
@@ -34,3 +38,4 @@ Entrega
 Até o final da aula (22h30), cada aluno deve realizar o upload jogo funcionando (ou do código que 
 conseguiu desenvolver para o jogo) na respectiva atividade do Classroom. Esta atividade deve ser 
 feita individualmente ou em duplas.
+
